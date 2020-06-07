@@ -70,7 +70,7 @@
                 center
                 top="6%"
         >
-            <img src="../assets/yangzhou/1.png" width="100%" height="100%">
+            <img src="https://i.loli.net/2020/06/07/vbGrIZ6oAqRtV5w.png" width="100%" height="100%">
             <petal/>
             <span slot="footer" class="dialog-footer">
                 <el-button @click="visibleDialog = false">关闭</el-button>
